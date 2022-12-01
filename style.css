@@ -246,6 +246,8 @@ img{
 
 .home_blob-img{
     width: 180px;
+    x: 12; 
+    y: 18;
 }
 
 .home_data{
@@ -911,4 +913,8 @@ img{
     .qualification_button{
         padding: 1rem;
     }
+}
+
+.mask-type{
+    mask-type: alpha;
 }
