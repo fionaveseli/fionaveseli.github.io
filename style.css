@@ -202,7 +202,7 @@ img{
     right: 1.3rem;
     bottom: .5rem;
     font-size: 1.5rem;
-    cursor: var(--first-color);
+    cursor: pointer;
 }
 
 .nav-close:hover{
@@ -491,7 +491,6 @@ img{
 }
 
 .qualification-title{
-    font-title: var(--normal-font-size);
     font-weight: var(--font-medium);
 }
 
